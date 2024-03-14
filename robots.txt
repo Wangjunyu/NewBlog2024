@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://2024.junyu.io/sitemap.xml
+Sitemap: /sitemap.xml

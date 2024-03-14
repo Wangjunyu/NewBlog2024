@@ -2,152 +2,152 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jane - A super concise theme for Hugo</title>
-    <link>http://2024.junyu.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Jane - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>me@example.com (Jane)</managingEditor>
     <webMaster>me@example.com (Jane)</webMaster>
     <lastBuildDate>Sat, 15 Oct 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://2024.junyu.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contribute</title>
-      <link>http://2024.junyu.io/tags/contribute/</link>
+      <link>/tags/contribute/</link>
       <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate><author>me@example.com (Jane)</author>
-      <guid>http://2024.junyu.io/tags/contribute/</guid>
+      <guid>/tags/contribute/</guid>
       <description></description>
     </item>
     <item>
       <title>Go</title>
-      <link>http://2024.junyu.io/tags/go/</link>
+      <link>/tags/go/</link>
       <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate><author>me@example.com (Jane)</author>
-      <guid>http://2024.junyu.io/tags/go/</guid>
+      <guid>/tags/go/</guid>
       <description></description>
     </item>
     <item>
       <title>Golang</title>
-      <link>http://2024.junyu.io/tags/golang/</link>
+      <link>/tags/golang/</link>
       <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate><author>me@example.com (Jane)</author>
-      <guid>http://2024.junyu.io/tags/golang/</guid>
+      <guid>/tags/golang/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>http://2024.junyu.io/tags/hugo/</link>
+      <link>/tags/hugo/</link>
       <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate><author>me@example.com (Jane)</author>
-      <guid>http://2024.junyu.io/tags/hugo/</guid>
+      <guid>/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Development</title>
-      <link>http://2024.junyu.io/tags/development/</link>
+      <link>/tags/development/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate><author>me@example.com (Jane)</author>
-      <guid>http://2024.junyu.io/tags/development/</guid>
+      <guid>/tags/development/</guid>
       <description></description>
     </item>
     <item>
       <title>Templates</title>
-      <link>http://2024.junyu.io/tags/templates/</link>
+      <link>/tags/templates/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate><author>me@example.com (Jane)</author>
-      <guid>http://2024.junyu.io/tags/templates/</guid>
+      <guid>/tags/templates/</guid>
       <description></description>
     </item>
     <item>
       <title>Themes</title>
-      <link>http://2024.junyu.io/tags/themes/</link>
+      <link>/tags/themes/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate><author>me@example.com (Jane)</author>
-      <guid>http://2024.junyu.io/tags/themes/</guid>
+      <guid>/tags/themes/</guid>
       <description></description>
     </item>
     <item>
       <title>Toc</title>
-      <link>http://2024.junyu.io/tags/toc/</link>
+      <link>/tags/toc/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate><author>me@example.com (Jane)</author>
-      <guid>http://2024.junyu.io/tags/toc/</guid>
+      <guid>/tags/toc/</guid>
       <description></description>
     </item>
     <item>
       <title>Math</title>
-      <link>http://2024.junyu.io/tags/math/</link>
+      <link>/tags/math/</link>
       <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate><author>me@example.com (Jane)</author>
-      <guid>http://2024.junyu.io/tags/math/</guid>
+      <guid>/tags/math/</guid>
       <description></description>
     </item>
     <item>
       <title>Preview</title>
-      <link>http://2024.junyu.io/tags/preview/</link>
+      <link>/tags/preview/</link>
       <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate><author>me@example.com (Jane)</author>
-      <guid>http://2024.junyu.io/tags/preview/</guid>
+      <guid>/tags/preview/</guid>
       <description></description>
     </item>
     <item>
       <title>Tag-6</title>
-      <link>http://2024.junyu.io/tags/tag-6/</link>
+      <link>/tags/tag-6/</link>
       <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate><author>me@example.com (Jane)</author>
-      <guid>http://2024.junyu.io/tags/tag-6/</guid>
+      <guid>/tags/tag-6/</guid>
       <description></description>
     </item>
     <item>
       <title>Shortcodes</title>
-      <link>http://2024.junyu.io/tags/shortcodes/</link>
+      <link>/tags/shortcodes/</link>
       <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate><author>me@example.com (Jane)</author>
-      <guid>http://2024.junyu.io/tags/shortcodes/</guid>
+      <guid>/tags/shortcodes/</guid>
       <description></description>
     </item>
     <item>
       <title>Image</title>
-      <link>http://2024.junyu.io/tags/image/</link>
+      <link>/tags/image/</link>
       <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate><author>me@example.com (Jane)</author>
-      <guid>http://2024.junyu.io/tags/image/</guid>
+      <guid>/tags/image/</guid>
       <description></description>
     </item>
     <item>
       <title>Tag-7</title>
-      <link>http://2024.junyu.io/tags/tag-7/</link>
+      <link>/tags/tag-7/</link>
       <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate><author>me@example.com (Jane)</author>
-      <guid>http://2024.junyu.io/tags/tag-7/</guid>
+      <guid>/tags/tag-7/</guid>
       <description></description>
     </item>
     <item>
       <title>Footnote</title>
-      <link>http://2024.junyu.io/tags/footnote/</link>
+      <link>/tags/footnote/</link>
       <pubDate>Thu, 01 Mar 2018 16:01:23 +0800</pubDate><author>me@example.com (Jane)</author>
-      <guid>http://2024.junyu.io/tags/footnote/</guid>
+      <guid>/tags/footnote/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>http://2024.junyu.io/tags/markdown/</link>
+      <link>/tags/markdown/</link>
       <pubDate>Thu, 01 Mar 2018 16:01:23 +0800</pubDate><author>me@example.com (Jane)</author>
-      <guid>http://2024.junyu.io/tags/markdown/</guid>
+      <guid>/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Tag-11</title>
-      <link>http://2024.junyu.io/tags/tag-11/</link>
+      <link>/tags/tag-11/</link>
       <pubDate>Thu, 01 Mar 2018 16:01:23 +0800</pubDate><author>me@example.com (Jane)</author>
-      <guid>http://2024.junyu.io/tags/tag-11/</guid>
+      <guid>/tags/tag-11/</guid>
       <description></description>
     </item>
     <item>
       <title>English</title>
-      <link>http://2024.junyu.io/tags/english/</link>
+      <link>/tags/english/</link>
       <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate><author>me@example.com (Jane)</author>
-      <guid>http://2024.junyu.io/tags/english/</guid>
+      <guid>/tags/english/</guid>
       <description></description>
     </item>
     <item>
       <title>Tag-2</title>
-      <link>http://2024.junyu.io/tags/tag-2/</link>
+      <link>/tags/tag-2/</link>
       <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate><author>me@example.com (Jane)</author>
-      <guid>http://2024.junyu.io/tags/tag-2/</guid>
+      <guid>/tags/tag-2/</guid>
       <description></description>
     </item>
     <item>
       <title>Jekyll</title>
-      <link>http://2024.junyu.io/tags/jekyll/</link>
+      <link>/tags/jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate><author>me@example.com (Jane)</author>
-      <guid>http://2024.junyu.io/tags/jekyll/</guid>
+      <guid>/tags/jekyll/</guid>
       <description></description>
     </item>
   </channel>
