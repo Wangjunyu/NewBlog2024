@@ -23,13 +23,6 @@
   </url>
   
   <url>
-    <loc>https://2024.junyu.io/post/hello-world-2024/</loc>
-    <lastmod>2024-03-15T18:12:15+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://2024.junyu.io/post/</loc>
     <lastmod>2024-03-15T18:12:15+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -214,13 +207,6 @@
   <url>
     <loc>https://2024.junyu.io/categories/shortcodes/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://2024.junyu.io/post/demo/demo/7-shortcodes-preview/</loc>
-    <lastmod>2018-03-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
