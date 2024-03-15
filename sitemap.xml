@@ -23,6 +23,13 @@
   </url>
   
   <url>
+    <loc>https://2024.junyu.io/post/</loc>
+    <lastmod>2024-03-15T18:12:15+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://2024.junyu.io/categories/</loc>
     <lastmod>2022-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -80,13 +87,6 @@
   
   <url>
     <loc>https://2024.junyu.io/categories/index/</loc>
-    <lastmod>2022-10-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://2024.junyu.io/post/</loc>
     <lastmod>2022-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
