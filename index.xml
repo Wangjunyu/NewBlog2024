@@ -6,8 +6,6 @@
     <description>Recent content on 浚宇的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>me@example.com (Jane)</managingEditor>
-    <webMaster>me@example.com (Jane)</webMaster>
     <lastBuildDate>Sat, 15 Oct 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://2024.junyu.io/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +15,7 @@
       <title>Jane 主题预览</title>
       <link>https://2024.junyu.io/post/jane-theme-preview.zh-cn/</link>
       <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
-      <author>me@example.com (Jane)</author>
+      
       <guid>https://2024.junyu.io/post/jane-theme-preview.zh-cn/</guid>
       
         <description>&lt;p&gt;主题预览,内容有待填充。&lt;/p&gt;
@@ -29,7 +27,7 @@
       <title>Jane Theme Preview</title>
       <link>https://2024.junyu.io/post/jane-theme-preview/</link>
       <pubDate>Mon, 01 Jan 2018 16:01:23 +0800</pubDate>
-      <author>me@example.com (Jane)</author>
+      
       <guid>https://2024.junyu.io/post/jane-theme-preview/</guid>
       
         <description>&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt; is created by &lt;a href=&#34;http://daringfireball.net/&#34;&gt;Daring Fireball&lt;/a&gt;, the original guideline is &lt;a href=&#34;http://daringfireball.net/projects/markdown/syntax&#34;&gt;here&lt;/a&gt;. Its syntax, however, varies between different parsers or editors.&lt;/p&gt;
@@ -274,7 +272,7 @@ $$&lt;/p&gt;
       <title>About</title>
       <link>https://2024.junyu.io/about/</link>
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
-      <author>me@example.com (Jane)</author>
+      
       <guid>https://2024.junyu.io/about/</guid>
       
         <description>&lt;p&gt;Hugo is a static site engine written in Go.&lt;/p&gt;
@@ -294,7 +292,7 @@ $$&lt;/p&gt;
       <title>How to Contribute</title>
       <link>https://2024.junyu.io/post/docs/how-to-contribute/</link>
       <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
-      <author>me@example.com (Jane)</author>
+      
       <guid>https://2024.junyu.io/post/docs/how-to-contribute/</guid>
       
         <description>&lt;h2 id=&#34;contributing-to-jane&#34;&gt;Contributing to Jane&lt;/h2&gt;
@@ -322,7 +320,7 @@ $$&lt;/p&gt;
       <title>Demo: toc</title>
       <link>https://2024.junyu.io/post/demo/2-toc/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      <author>me@example.com (Jane)</author>
+      
       <guid>https://2024.junyu.io/post/demo/2-toc/</guid>
       
         <description>&lt;h2 id=&#34;header&#34;&gt;Header&lt;/h2&gt;
@@ -359,7 +357,7 @@ $$&lt;/p&gt;
       <title>Demo: toc, global toc is true, but this post should not show toc</title>
       <link>https://2024.junyu.io/post/other/test-toc/global-toc-except-this/</link>
       <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
-      <author>me@example.com (Jane)</author>
+      
       <guid>https://2024.junyu.io/post/other/test-toc/global-toc-except-this/</guid>
       
         <description>&lt;h2 id=&#34;header&#34;&gt;Header&lt;/h2&gt;
@@ -396,7 +394,7 @@ $$&lt;/p&gt;
       <title>no header, no toc</title>
       <link>https://2024.junyu.io/post/other/test-toc/no-header-dont-show-toc/</link>
       <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
-      <author>me@example.com (Jane)</author>
+      
       <guid>https://2024.junyu.io/post/other/test-toc/no-header-dont-show-toc/</guid>
       
         <description>&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;
@@ -408,7 +406,7 @@ $$&lt;/p&gt;
       <title>Demo: Math</title>
       <link>https://2024.junyu.io/post/demo/5-math/</link>
       <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
-      <author>me@example.com (Jane)</author>
+      
       <guid>https://2024.junyu.io/post/demo/5-math/</guid>
       
         <description>&lt;p&gt;&lt;a href=&#34;https://www.intmath.com/cg5/katex-mathjax-comparison.php&#34;&gt;KaTeX and MathJax Comparison Demo, currently processed as KaTeX&lt;/a&gt;&lt;/p&gt;
@@ -555,7 +553,7 @@ $$&lt;/p&gt;</description>
       <title>Demo: more Shortcodes</title>
       <link>https://2024.junyu.io/post/demo/7-shortcodes-preview/</link>
       <pubDate>Sun, 04 Mar 2018 16:01:23 +0800</pubDate>
-      <author>me@example.com (Jane)</author>
+      
       <guid>https://2024.junyu.io/post/demo/7-shortcodes-preview/</guid>
       
         <description>&lt;h2 id=&#34;what-a-shortcode-is&#34;&gt;What a Shortcode is&lt;/h2&gt;
@@ -929,7 +927,7 @@ Yes !.
       <title>Demo: Image</title>
       <link>https://2024.junyu.io/post/demo/1-image/</link>
       <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate>
-      <author>me@example.com (Jane)</author>
+      
       <guid>https://2024.junyu.io/post/demo/1-image/</guid>
       
         <description>&lt;p&gt;Thanks for &lt;a href=&#34;https://github.com/liwenyip/hugo-easy-gallery&#34;&gt;liwenyip/hugo-easy-gallery&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://github.com/xianmin/hugo-theme-jane/pull/48&#34;&gt;Zebradil · Pull Request #48&lt;/a&gt; .&lt;/p&gt;
@@ -1017,7 +1015,7 @@ Yes !.
       <title>Demo: Shortcodes Notice</title>
       <link>https://2024.junyu.io/post/demo/6-shortcode-notice/</link>
       <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate>
-      <author>me@example.com (Jane)</author>
+      
       <guid>https://2024.junyu.io/post/demo/6-shortcode-notice/</guid>
       
         <description>&lt;h2 id=&#34;normal-use&#34;&gt;normal use&lt;/h2&gt;
@@ -1055,7 +1053,7 @@ A warning disclaimer
       <title>Demo: Footnote</title>
       <link>https://2024.junyu.io/post/demo/4-footnote/</link>
       <pubDate>Thu, 01 Mar 2018 16:01:23 +0800</pubDate>
-      <author>me@example.com (Jane)</author>
+      
       <guid>https://2024.junyu.io/post/demo/4-footnote/</guid>
       
         <description>&lt;p&gt;Hugo-theme-jane optimized for footnote. When you mouse hover the footnote&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; , footnote content will be displayed.&lt;/p&gt;
@@ -1124,7 +1122,7 @@ A warning disclaimer
       <title>English Creating a New Theme</title>
       <link>https://2024.junyu.io/post/other/english-preview/</link>
       <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
-      <author>me@example.com (Jane)</author>
+      
       <guid>https://2024.junyu.io/post/other/english-preview/</guid>
       
         <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
@@ -1939,7 +1937,7 @@ $ vi themes/zafta/layouts/_default/single.html
       <title>This is a very long title This is a very long title This is a very long title This is a very long title This is a very long title</title>
       <link>https://2024.junyu.io/post/other/this-is-a-very-long-title/</link>
       <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
-      <author>me@example.com (Jane)</author>
+      
       <guid>https://2024.junyu.io/post/other/this-is-a-very-long-title/</guid>
       
         <description>&lt;p&gt;This is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long title&lt;/p&gt;
@@ -1951,7 +1949,7 @@ $ vi themes/zafta/layouts/_default/single.html
       <title>Creating a New Theme</title>
       <link>https://2024.junyu.io/post/other/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      <author>me@example.com (Jane)</author>
+      
       <guid>https://2024.junyu.io/post/other/creating-a-new-theme/</guid>
       
         <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
@@ -2767,7 +2765,7 @@ $ vi themes/zafta/layouts/_default/single.html
       <title>(Hu)go Template Primer</title>
       <link>https://2024.junyu.io/post/other/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <author>me@example.com (Jane)</author>
+      
       <guid>https://2024.junyu.io/post/other/goisforlovers/</guid>
       
         <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;http://golang.org/&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;http://golang.org/pkg/html/template/&#34;&gt;html/template&lt;/a&gt; library for
@@ -3011,7 +3009,7 @@ so, such as in this example:&lt;/p&gt;
       <title>Getting Started with Hugo</title>
       <link>https://2024.junyu.io/post/other/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <author>me@example.com (Jane)</author>
+      
       <guid>https://2024.junyu.io/post/other/hugoisforlovers/</guid>
       
         <description>&lt;h2 id=&#34;step-1-install-hugo&#34;&gt;Step 1. Install Hugo&lt;/h2&gt;
@@ -3076,7 +3074,7 @@ Having nearly instant feedback enables you to have your creativity flow without 
       <title>Migrate to Hugo from Jekyll</title>
       <link>https://2024.junyu.io/post/other/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      <author>me@example.com (Jane)</author>
+      
       <guid>https://2024.junyu.io/post/other/migrate-from-jekyll/</guid>
       
         <description>&lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
@@ -3220,7 +3218,7 @@ Liquid::Template.register_tag(&#39;image&#39;, Jekyll::ImageTag)
       <title>Demo: Syntax Highlighting</title>
       <link>https://2024.junyu.io/post/demo/3-syntax-highlighting/</link>
       <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
-      <author>me@example.com (Jane)</author>
+      
       <guid>https://2024.junyu.io/post/demo/3-syntax-highlighting/</guid>
       
         <description>&lt;p&gt;More detail: &lt;a href=&#34;https://gohugo.io/content-management/syntax-highlighting/&#34;&gt;Syntax Highlighting | Hugo&lt;/a&gt;&lt;/p&gt;
