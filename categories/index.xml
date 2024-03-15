@@ -2,82 +2,82 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jane - A super concise theme for Hugo</title>
-    <link>/categories/</link>
+    <link>https://wangjunyu.github.io/NewBlog2024/categories/</link>
     <description>Recent content in Categories on Jane - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>me@example.com (Jane)</managingEditor>
     <webMaster>me@example.com (Jane)</webMaster>
     <lastBuildDate>Sat, 15 Oct 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wangjunyu.github.io/NewBlog2024/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Development</title>
-      <link>/categories/development/</link>
+      <link>https://wangjunyu.github.io/NewBlog2024/categories/development/</link>
       <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate><author>me@example.com (Jane)</author>
-      <guid>/categories/development/</guid>
+      <guid>https://wangjunyu.github.io/NewBlog2024/categories/development/</guid>
       <description></description>
     </item>
     <item>
       <title>Docs</title>
-      <link>/categories/docs/</link>
+      <link>https://wangjunyu.github.io/NewBlog2024/categories/docs/</link>
       <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate><author>me@example.com (Jane)</author>
-      <guid>/categories/docs/</guid>
+      <guid>https://wangjunyu.github.io/NewBlog2024/categories/docs/</guid>
       <description></description>
     </item>
     <item>
       <title>Index</title>
-      <link>/categories/index/</link>
+      <link>https://wangjunyu.github.io/NewBlog2024/categories/index/</link>
       <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate><author>me@example.com (Jane)</author>
-      <guid>/categories/index/</guid>
+      <guid>https://wangjunyu.github.io/NewBlog2024/categories/index/</guid>
       <description></description>
     </item>
     <item>
       <title>Golang</title>
-      <link>/categories/golang/</link>
+      <link>https://wangjunyu.github.io/NewBlog2024/categories/golang/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate><author>me@example.com (Jane)</author>
-      <guid>/categories/golang/</guid>
+      <guid>https://wangjunyu.github.io/NewBlog2024/categories/golang/</guid>
       <description></description>
     </item>
     <item>
       <title>Demo</title>
-      <link>/categories/demo/</link>
+      <link>https://wangjunyu.github.io/NewBlog2024/categories/demo/</link>
       <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate><author>me@example.com (Jane)</author>
-      <guid>/categories/demo/</guid>
+      <guid>https://wangjunyu.github.io/NewBlog2024/categories/demo/</guid>
       <description></description>
     </item>
     <item>
       <title>Math</title>
-      <link>/categories/math/</link>
+      <link>https://wangjunyu.github.io/NewBlog2024/categories/math/</link>
       <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate><author>me@example.com (Jane)</author>
-      <guid>/categories/math/</guid>
+      <guid>https://wangjunyu.github.io/NewBlog2024/categories/math/</guid>
       <description></description>
     </item>
     <item>
       <title>Shortcodes</title>
-      <link>/categories/shortcodes/</link>
+      <link>https://wangjunyu.github.io/NewBlog2024/categories/shortcodes/</link>
       <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate><author>me@example.com (Jane)</author>
-      <guid>/categories/shortcodes/</guid>
+      <guid>https://wangjunyu.github.io/NewBlog2024/categories/shortcodes/</guid>
       <description></description>
     </item>
     <item>
       <title>English</title>
-      <link>/categories/english/</link>
+      <link>https://wangjunyu.github.io/NewBlog2024/categories/english/</link>
       <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate><author>me@example.com (Jane)</author>
-      <guid>/categories/english/</guid>
+      <guid>https://wangjunyu.github.io/NewBlog2024/categories/english/</guid>
       <description></description>
     </item>
     <item>
       <title>Test</title>
-      <link>/categories/test/</link>
+      <link>https://wangjunyu.github.io/NewBlog2024/categories/test/</link>
       <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate><author>me@example.com (Jane)</author>
-      <guid>/categories/test/</guid>
+      <guid>https://wangjunyu.github.io/NewBlog2024/categories/test/</guid>
       <description></description>
     </item>
     <item>
       <title>Syntax Highlighting</title>
-      <link>/categories/syntax-highlighting/</link>
+      <link>https://wangjunyu.github.io/NewBlog2024/categories/syntax-highlighting/</link>
       <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate><author>me@example.com (Jane)</author>
-      <guid>/categories/syntax-highlighting/</guid>
+      <guid>https://wangjunyu.github.io/NewBlog2024/categories/syntax-highlighting/</guid>
       <description></description>
     </item>
   </channel>
