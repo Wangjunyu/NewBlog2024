@@ -1,386 +1,386 @@
-<?xml-stylesheet type="text/xsl" href="https://wangjunyu.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://2024.junyu.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/post/jane-theme-preview.zh-cn/</loc>
+    <loc>https://2024.junyu.io/post/jane-theme-preview.zh-cn/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/post/jane-theme-preview/</loc>
+    <loc>https://2024.junyu.io/post/jane-theme-preview/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/about/</loc>
+    <loc>https://2024.junyu.io/about/</loc>
     <lastmod>2017-08-28T21:41:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/categories/</loc>
+    <loc>https://2024.junyu.io/categories/</loc>
     <lastmod>2022-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/tags/contribute/</loc>
+    <loc>https://2024.junyu.io/tags/contribute/</loc>
     <lastmod>2022-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/categories/development/</loc>
+    <loc>https://2024.junyu.io/categories/development/</loc>
     <lastmod>2022-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/categories/docs/</loc>
+    <loc>https://2024.junyu.io/categories/docs/</loc>
     <lastmod>2022-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/tags/go/</loc>
+    <loc>https://2024.junyu.io/tags/go/</loc>
     <lastmod>2022-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/tags/golang/</loc>
+    <loc>https://2024.junyu.io/tags/golang/</loc>
     <lastmod>2022-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/post/docs/how-to-contribute/</loc>
+    <loc>https://2024.junyu.io/post/docs/how-to-contribute/</loc>
     <lastmod>2022-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/tags/hugo/</loc>
+    <loc>https://2024.junyu.io/tags/hugo/</loc>
     <lastmod>2022-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/categories/index/</loc>
+    <loc>https://2024.junyu.io/categories/index/</loc>
     <lastmod>2022-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/</loc>
+    <loc>https://2024.junyu.io/</loc>
     <lastmod>2022-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/post/</loc>
+    <loc>https://2024.junyu.io/post/</loc>
     <lastmod>2022-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/tags/</loc>
+    <loc>https://2024.junyu.io/tags/</loc>
     <lastmod>2022-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/post/demo/2-toc/</loc>
+    <loc>https://2024.junyu.io/post/demo/2-toc/</loc>
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/tags/development/</loc>
+    <loc>https://2024.junyu.io/tags/development/</loc>
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/categories/golang/</loc>
+    <loc>https://2024.junyu.io/categories/golang/</loc>
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/tags/templates/</loc>
+    <loc>https://2024.junyu.io/tags/templates/</loc>
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/tags/themes/</loc>
+    <loc>https://2024.junyu.io/tags/themes/</loc>
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/tags/toc/</loc>
+    <loc>https://2024.junyu.io/tags/toc/</loc>
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/post/other/test-toc/global-toc-except-this/</loc>
+    <loc>https://2024.junyu.io/post/other/test-toc/global-toc-except-this/</loc>
     <lastmod>2022-02-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/post/other/test-toc/no-header-dont-show-toc/</loc>
+    <loc>https://2024.junyu.io/post/other/test-toc/no-header-dont-show-toc/</loc>
     <lastmod>2022-02-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/categories/demo/</loc>
+    <loc>https://2024.junyu.io/categories/demo/</loc>
     <lastmod>2019-03-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/post/demo/5-math/</loc>
+    <loc>https://2024.junyu.io/post/demo/5-math/</loc>
     <lastmod>2019-03-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/tags/math/</loc>
+    <loc>https://2024.junyu.io/tags/math/</loc>
     <lastmod>2019-03-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/categories/math/</loc>
+    <loc>https://2024.junyu.io/categories/math/</loc>
     <lastmod>2019-03-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/tags/preview/</loc>
+    <loc>https://2024.junyu.io/tags/preview/</loc>
     <lastmod>2019-03-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/tags/tag-6/</loc>
+    <loc>https://2024.junyu.io/tags/tag-6/</loc>
     <lastmod>2019-03-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/tags/shortcodes/</loc>
+    <loc>https://2024.junyu.io/tags/shortcodes/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/categories/shortcodes/</loc>
+    <loc>https://2024.junyu.io/categories/shortcodes/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/post/demo/7-shortcodes-preview/</loc>
+    <loc>https://2024.junyu.io/post/demo/7-shortcodes-preview/</loc>
     <lastmod>2018-03-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/post/demo/1-image/</loc>
+    <loc>https://2024.junyu.io/post/demo/1-image/</loc>
     <lastmod>2018-03-04T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/post/demo/6-shortcode-notice/</loc>
+    <loc>https://2024.junyu.io/post/demo/6-shortcode-notice/</loc>
     <lastmod>2018-03-04T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/tags/image/</loc>
+    <loc>https://2024.junyu.io/tags/image/</loc>
     <lastmod>2018-03-04T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/tags/tag-7/</loc>
+    <loc>https://2024.junyu.io/tags/tag-7/</loc>
     <lastmod>2018-03-04T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/post/demo/4-footnote/</loc>
+    <loc>https://2024.junyu.io/post/demo/4-footnote/</loc>
     <lastmod>2018-03-01T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/tags/footnote/</loc>
+    <loc>https://2024.junyu.io/tags/footnote/</loc>
     <lastmod>2018-03-01T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/tags/markdown/</loc>
+    <loc>https://2024.junyu.io/tags/markdown/</loc>
     <lastmod>2018-03-01T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/tags/tag-11/</loc>
+    <loc>https://2024.junyu.io/tags/tag-11/</loc>
     <lastmod>2018-03-01T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/tags/english/</loc>
+    <loc>https://2024.junyu.io/tags/english/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/categories/english/</loc>
+    <loc>https://2024.junyu.io/categories/english/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/post/other/english-preview/</loc>
+    <loc>https://2024.junyu.io/post/other/english-preview/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/tags/tag-2/</loc>
+    <loc>https://2024.junyu.io/tags/tag-2/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/categories/test/</loc>
+    <loc>https://2024.junyu.io/categories/test/</loc>
     <lastmod>2017-08-30T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/post/other/this-is-a-very-long-title/</loc>
+    <loc>https://2024.junyu.io/post/other/this-is-a-very-long-title/</loc>
     <lastmod>2017-08-30T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/post/other/creating-a-new-theme/</loc>
+    <loc>https://2024.junyu.io/post/other/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/post/other/goisforlovers/</loc>
+    <loc>https://2024.junyu.io/post/other/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/post/other/hugoisforlovers/</loc>
+    <loc>https://2024.junyu.io/post/other/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/tags/jekyll/</loc>
+    <loc>https://2024.junyu.io/tags/jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/post/other/migrate-from-jekyll/</loc>
+    <loc>https://2024.junyu.io/post/other/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/post/demo/3-syntax-highlighting/</loc>
+    <loc>https://2024.junyu.io/post/demo/3-syntax-highlighting/</loc>
     <lastmod>2017-08-30T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/tags/syntax-highlighting/</loc>
+    <loc>https://2024.junyu.io/tags/syntax-highlighting/</loc>
     <lastmod>2017-08-30T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/categories/syntax-highlighting/</loc>
+    <loc>https://2024.junyu.io/categories/syntax-highlighting/</loc>
     <lastmod>2017-08-30T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wangjunyu.github.io/NewBlog2024/tags/tag-5/</loc>
+    <loc>https://2024.junyu.io/tags/tag-5/</loc>
     <lastmod>2017-08-30T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

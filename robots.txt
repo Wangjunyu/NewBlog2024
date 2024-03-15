@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://wangjunyu.github.io/NewBlog2024/sitemap.xml
+Sitemap: https://2024.junyu.io/sitemap.xml

@@ -2,82 +2,82 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jane - A super concise theme for Hugo</title>
-    <link>https://wangjunyu.github.io/NewBlog2024/categories/</link>
+    <link>https://2024.junyu.io/categories/</link>
     <description>Recent content in Categories on Jane - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>me@example.com (Jane)</managingEditor>
     <webMaster>me@example.com (Jane)</webMaster>
     <lastBuildDate>Sat, 15 Oct 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wangjunyu.github.io/NewBlog2024/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://2024.junyu.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Development</title>
-      <link>https://wangjunyu.github.io/NewBlog2024/categories/development/</link>
+      <link>https://2024.junyu.io/categories/development/</link>
       <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate><author>me@example.com (Jane)</author>
-      <guid>https://wangjunyu.github.io/NewBlog2024/categories/development/</guid>
+      <guid>https://2024.junyu.io/categories/development/</guid>
       <description></description>
     </item>
     <item>
       <title>Docs</title>
-      <link>https://wangjunyu.github.io/NewBlog2024/categories/docs/</link>
+      <link>https://2024.junyu.io/categories/docs/</link>
       <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate><author>me@example.com (Jane)</author>
-      <guid>https://wangjunyu.github.io/NewBlog2024/categories/docs/</guid>
+      <guid>https://2024.junyu.io/categories/docs/</guid>
       <description></description>
     </item>
     <item>
       <title>Index</title>
-      <link>https://wangjunyu.github.io/NewBlog2024/categories/index/</link>
+      <link>https://2024.junyu.io/categories/index/</link>
       <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate><author>me@example.com (Jane)</author>
-      <guid>https://wangjunyu.github.io/NewBlog2024/categories/index/</guid>
+      <guid>https://2024.junyu.io/categories/index/</guid>
       <description></description>
     </item>
     <item>
       <title>Golang</title>
-      <link>https://wangjunyu.github.io/NewBlog2024/categories/golang/</link>
+      <link>https://2024.junyu.io/categories/golang/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate><author>me@example.com (Jane)</author>
-      <guid>https://wangjunyu.github.io/NewBlog2024/categories/golang/</guid>
+      <guid>https://2024.junyu.io/categories/golang/</guid>
       <description></description>
     </item>
     <item>
       <title>Demo</title>
-      <link>https://wangjunyu.github.io/NewBlog2024/categories/demo/</link>
+      <link>https://2024.junyu.io/categories/demo/</link>
       <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate><author>me@example.com (Jane)</author>
-      <guid>https://wangjunyu.github.io/NewBlog2024/categories/demo/</guid>
+      <guid>https://2024.junyu.io/categories/demo/</guid>
       <description></description>
     </item>
     <item>
       <title>Math</title>
-      <link>https://wangjunyu.github.io/NewBlog2024/categories/math/</link>
+      <link>https://2024.junyu.io/categories/math/</link>
       <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate><author>me@example.com (Jane)</author>
-      <guid>https://wangjunyu.github.io/NewBlog2024/categories/math/</guid>
+      <guid>https://2024.junyu.io/categories/math/</guid>
       <description></description>
     </item>
     <item>
       <title>Shortcodes</title>
-      <link>https://wangjunyu.github.io/NewBlog2024/categories/shortcodes/</link>
+      <link>https://2024.junyu.io/categories/shortcodes/</link>
       <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate><author>me@example.com (Jane)</author>
-      <guid>https://wangjunyu.github.io/NewBlog2024/categories/shortcodes/</guid>
+      <guid>https://2024.junyu.io/categories/shortcodes/</guid>
       <description></description>
     </item>
     <item>
       <title>English</title>
-      <link>https://wangjunyu.github.io/NewBlog2024/categories/english/</link>
+      <link>https://2024.junyu.io/categories/english/</link>
       <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate><author>me@example.com (Jane)</author>
-      <guid>https://wangjunyu.github.io/NewBlog2024/categories/english/</guid>
+      <guid>https://2024.junyu.io/categories/english/</guid>
       <description></description>
     </item>
     <item>
       <title>Test</title>
-      <link>https://wangjunyu.github.io/NewBlog2024/categories/test/</link>
+      <link>https://2024.junyu.io/categories/test/</link>
       <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate><author>me@example.com (Jane)</author>
-      <guid>https://wangjunyu.github.io/NewBlog2024/categories/test/</guid>
+      <guid>https://2024.junyu.io/categories/test/</guid>
       <description></description>
     </item>
     <item>
       <title>Syntax Highlighting</title>
-      <link>https://wangjunyu.github.io/NewBlog2024/categories/syntax-highlighting/</link>
+      <link>https://2024.junyu.io/categories/syntax-highlighting/</link>
       <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate><author>me@example.com (Jane)</author>
-      <guid>https://wangjunyu.github.io/NewBlog2024/categories/syntax-highlighting/</guid>
+      <guid>https://2024.junyu.io/categories/syntax-highlighting/</guid>
       <description></description>
     </item>
   </channel>
