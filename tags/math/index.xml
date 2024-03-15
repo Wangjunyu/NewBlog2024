@@ -10,9 +10,9 @@
     <atom:link href="https://2024.junyu.io/tags/math/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Demo: Math</title>
-      <link>https://2024.junyu.io/post/demo/5-math/</link>
+      <link>https://2024.junyu.io/post/demo/demo/5-math/</link>
       <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
-      <guid>https://2024.junyu.io/post/demo/5-math/</guid>
+      <guid>https://2024.junyu.io/post/demo/demo/5-math/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.intmath.com/cg5/katex-mathjax-comparison.php&#34;&gt;KaTeX and MathJax Comparison Demo, currently processed as KaTeX&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

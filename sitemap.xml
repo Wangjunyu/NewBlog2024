@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://2024.junyu.io/post/jane-theme-preview.zh-cn/</loc>
+    <loc>https://2024.junyu.io/post/demo/jane-theme-preview.zh-cn/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://2024.junyu.io/post/jane-theme-preview/</loc>
+    <loc>https://2024.junyu.io/post/demo/jane-theme-preview/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://2024.junyu.io/about/</loc>
-    <lastmod>2017-08-28T21:41:52+08:00</lastmod>
+    <loc>https://2024.junyu.io/</loc>
+    <lastmod>2024-03-15T16:59:05+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://2024.junyu.io/post/docs/how-to-contribute/</loc>
+    <loc>https://2024.junyu.io/post/demo/docs/how-to-contribute/</loc>
     <lastmod>2022-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -100,14 +100,7 @@
   </url>
   
   <url>
-    <loc>https://2024.junyu.io/</loc>
-    <lastmod>2022-10-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://2024.junyu.io/post/demo/2-toc/</loc>
+    <loc>https://2024.junyu.io/post/demo/demo/2-toc/</loc>
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -149,14 +142,14 @@
   </url>
   
   <url>
-    <loc>https://2024.junyu.io/post/other/test-toc/global-toc-except-this/</loc>
+    <loc>https://2024.junyu.io/post/demo/other/test-toc/global-toc-except-this/</loc>
     <lastmod>2022-02-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://2024.junyu.io/post/other/test-toc/no-header-dont-show-toc/</loc>
+    <loc>https://2024.junyu.io/post/demo/other/test-toc/no-header-dont-show-toc/</loc>
     <lastmod>2022-02-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -170,7 +163,7 @@
   </url>
   
   <url>
-    <loc>https://2024.junyu.io/post/demo/5-math/</loc>
+    <loc>https://2024.junyu.io/post/demo/demo/5-math/</loc>
     <lastmod>2019-03-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -219,21 +212,21 @@
   </url>
   
   <url>
-    <loc>https://2024.junyu.io/post/demo/7-shortcodes-preview/</loc>
+    <loc>https://2024.junyu.io/post/demo/demo/7-shortcodes-preview/</loc>
     <lastmod>2018-03-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://2024.junyu.io/post/demo/1-image/</loc>
+    <loc>https://2024.junyu.io/post/demo/demo/1-image/</loc>
     <lastmod>2018-03-04T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://2024.junyu.io/post/demo/6-shortcode-notice/</loc>
+    <loc>https://2024.junyu.io/post/demo/demo/6-shortcode-notice/</loc>
     <lastmod>2018-03-04T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -254,7 +247,7 @@
   </url>
   
   <url>
-    <loc>https://2024.junyu.io/post/demo/4-footnote/</loc>
+    <loc>https://2024.junyu.io/post/demo/demo/4-footnote/</loc>
     <lastmod>2018-03-01T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -296,7 +289,7 @@
   </url>
   
   <url>
-    <loc>https://2024.junyu.io/post/other/english-preview/</loc>
+    <loc>https://2024.junyu.io/post/demo/other/english-preview/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -317,28 +310,28 @@
   </url>
   
   <url>
-    <loc>https://2024.junyu.io/post/other/this-is-a-very-long-title/</loc>
+    <loc>https://2024.junyu.io/post/demo/other/this-is-a-very-long-title/</loc>
     <lastmod>2017-08-30T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://2024.junyu.io/post/other/creating-a-new-theme/</loc>
+    <loc>https://2024.junyu.io/post/demo/other/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://2024.junyu.io/post/other/goisforlovers/</loc>
+    <loc>https://2024.junyu.io/post/demo/other/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://2024.junyu.io/post/other/hugoisforlovers/</loc>
+    <loc>https://2024.junyu.io/post/demo/other/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -352,14 +345,14 @@
   </url>
   
   <url>
-    <loc>https://2024.junyu.io/post/other/migrate-from-jekyll/</loc>
+    <loc>https://2024.junyu.io/post/demo/other/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://2024.junyu.io/post/demo/3-syntax-highlighting/</loc>
+    <loc>https://2024.junyu.io/post/demo/demo/3-syntax-highlighting/</loc>
     <lastmod>2017-08-30T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
